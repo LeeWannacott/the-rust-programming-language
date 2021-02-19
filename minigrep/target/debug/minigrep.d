@@ -1,0 +1,1 @@
+/home/lee/Desktop/the-rust-programming-language/minigrep/target/debug/minigrep: /home/lee/Desktop/the-rust-programming-language/minigrep/src/lib.rs /home/lee/Desktop/the-rust-programming-language/minigrep/src/main.rs
